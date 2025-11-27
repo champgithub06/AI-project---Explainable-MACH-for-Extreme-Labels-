@@ -47,8 +47,6 @@ We performed **adversarial robustness testing** using the **Fast Gradient Sign M
 - Measured the drop in performance under adversarial settings.
 - Evaluated using standard XML metrics (Precision@k, NDCG@k).
 
-> ⚠️ We did not apply adversarial training to preserve MACH's performance.
-
 ---
 
 ## 📊 Results
